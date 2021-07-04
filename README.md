@@ -15,4 +15,3 @@ https://www.youtube.com/embed/ulFY0e-lppI
 https://www.youtube.com/embed/Xc6CLuVii3w 
 <h3>Introduction to Ray Tracing: Wrap up, Competition Results</h3>
 https://www.youtube.com/embed/wd81-x718ak 
-
