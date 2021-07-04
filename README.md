@@ -7,7 +7,7 @@ https://www.youtube.com/embed/3xMeKal2-Ws
 https://www.youtube.com/embed/MLdmSL8MnkE
 <h3>Introduction to Ray Tracing: Scene, Reflection, Refraction. Announce: Competition</h3>
 https://www.youtube.com/embed/eOsB7RwzLR4
-<h3>Introduction to Ray Tracing: Materials – I (BRDF)
+<h3>Introduction to Ray Tracing: Materials – I (BRDF)</h3>
 https://www.youtube.com/embed/19K3ryuh3oM 
 <h3>Introduction to Ray Tracing: Materials – 2, Importance Sampling</h3>
 https://www.youtube.com/embed/ulFY0e-lppI 
